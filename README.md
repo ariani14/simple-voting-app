@@ -22,7 +22,7 @@ Run the application via:
 
 ```bash
 $> bundle install
-$> bundle exec ruby app.rb
+$> bundle exec ruby vote.rb
 ```
 
 ## License & Authors
